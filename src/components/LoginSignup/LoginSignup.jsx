@@ -27,12 +27,12 @@ const [action,setAction] = useState("Login");
 
         <div className="input">
           <img src={email_icon} alt="" />
-          <input type="email" placeholder='Email Id'/>
+          <input type="email" placeholder='Email Id' name='email' />
         </div>
 
         <div className="input">
           <img src={password_icon} alt="" />
-          <input type="password" placeholder='Password'/>
+          <input type="password" placeholder='Password' name='password'/>
         </div>
       </div>
 
