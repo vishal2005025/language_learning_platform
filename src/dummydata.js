@@ -251,7 +251,7 @@ export const team = [
   },
   {
     cover: "./images/team/t2.webp",
-    name: "Ph.D Arthur MaGregor",
+    name: "Ph.D Arthur ",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
@@ -271,7 +271,7 @@ export const team = [
   },
   {
     cover: "./images/team/t6.webp",
-    name: "Ph.D Arthur MaGregor",
+    name: "Ph.D Arthur ",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
