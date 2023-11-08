@@ -82,7 +82,7 @@ export const coursesCard = [
       },
     ],
     priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    pricePer: "$10 per month",
   },
   {
     id: 4,
@@ -96,7 +96,7 @@ export const coursesCard = [
       },
     ],
     priceAll: "$30 All Course",
-    pricePer: "$3 per month",
+    pricePer: "$13 per month",
   },
   {
     id: 5,
@@ -138,7 +138,7 @@ export const coursesCard = [
       },
     ],
     priceAll: "$20 All Course",
-    pricePer: "$2 per month",
+    pricePer: "$12 per month",
   },
   {
     id: 8,
@@ -157,7 +157,7 @@ export const coursesCard = [
   {
     id: 9,
     cover: "../images/courses/c9.png",
-    coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
+    coursesName: "Introducing to  JAVASCRIPT",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -166,7 +166,7 @@ export const coursesCard = [
       },
     ],
     priceAll: "$20 All Course",
-    pricePer: "$3 per month",
+    pricePer: "$10 per month",
   },
 ]
 export const online = [
