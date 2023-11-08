@@ -179,7 +179,7 @@ export const online = [
   {
     cover: "./images/courses/online/o2.png",
     hoverCover: "./images/courses/online/o2.1.png",
-    courseName: "Art & Design",
+    courseName: "Art & Design courses",
     course: "25 Courses",
   },
   {
@@ -215,7 +215,7 @@ export const online = [
   {
     cover: "./images/courses/online/o8.png",
     hoverCover: "./images/courses/online/o8.1.png",
-    courseName: "Marketing",
+    courseName: "Marketing course",
     course: "30 Courses",
   },
   {
@@ -227,7 +227,7 @@ export const online = [
   {
     cover: "./images/courses/online/o10.png",
     hoverCover: "./images/courses/online/o10.1.png",
-    courseName: "Music",
+    courseName: "Music & listining",
     course: "120 Courses",
   },
   {

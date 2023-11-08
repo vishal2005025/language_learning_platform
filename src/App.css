@@ -138,7 +138,18 @@ body {
     background-color: #1eb2a6;
     color: #fff;
   }
-
+  .grid3 {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 10px;
+  }
+  .padding {
+    padding: 80px 0;
+  }
+  .shadow {
+    box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+    background-color: #fff;
+  }
 
   @media screen and (max-width: 768px) {
     .grid2,
