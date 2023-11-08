@@ -23,6 +23,7 @@ function App() {
 <Router>
 
 <Header/>
+
 <Routes>
 
 <Route path='/' element={<Home/>}/>
@@ -34,20 +35,7 @@ function App() {
 </Routes>      
 </Router>
 
-
-
 </>
-
-
-/*<BrowserRouter>
-      <Routes>
-    
-    
-    
-   
-      </Routes>
- 
-    </BrowserRouter>*/
   
   );
 }
