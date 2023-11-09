@@ -2,9 +2,9 @@
 import './App.css';
 import Header from './components/common/heading/Header';
 
-/*import LoginSignup from './components/LoginSignup/LoginSignup';*/
-/*import { BrowserRouter, Routes, Route, Router } from "react-router-dom";
-/*<Route path='/' element= {<LoginSignup/>} />*/
+// import LoginSignup from './components/LoginSignup/LoginSignup';
+/*import { BrowserRouter, Routes, Route, Router } from "react-router-dom";*/
+
 
 import {
   BrowserRouter as Router,
@@ -31,6 +31,7 @@ function App() {
 <Route path='/courses' element={<CourseHome/>}/>
 <Route path='/team' element={<Team/>}/>
 
+{/* <Route path='/' element= {<LoginSignup/>} /> */}
 
 </Routes>      
 </Router>

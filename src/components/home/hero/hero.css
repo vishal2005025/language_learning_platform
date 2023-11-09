@@ -1,6 +1,7 @@
 .hero {
-    background-image: url("../../../../public/images/bg.webp");
-  background-size: cover;
+     background-image: url("../../../../public/images/bg.webp"); 
+    /* background-image: url("../../../../public/images/p6.jpg"); */
+  background-size: cover; 
   background-attachment: fixed;
   position: absolute;
   top: 0;
