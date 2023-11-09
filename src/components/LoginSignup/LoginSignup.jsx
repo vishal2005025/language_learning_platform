@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
  
-import './LoginSignup.css'
+ import './LoginSignup.css'
 
 import user_icon from '../assets/person.png'
 import email_icon from '../assets/email.png'
@@ -13,11 +13,11 @@ const LoginSignup = () => {
 const [action,setAction] = useState("Login");
 
   return (
-
-    <div className='container'>
-      <div className="header">
-        <div className="text">{action}</div>
-        <div className="underline"></div>
+<div className='login1'>
+<div className='containerL'>
+      <div className="headerL">
+        <div className="textL">{action}</div>
+        <div className="underlineL"></div>
       </div>
       <div className="inputs">
         {action==="Login"?<div></div>:<div className="input">
@@ -42,8 +42,13 @@ const [action,setAction] = useState("Login");
       <div className="submit-container">
         <div className={action==="Login"?"submit gray":"submit"} onClick={()=>{setAction("Sign Up")}}> Sign Up</div>
         <div className={action==="Sign Up"?"submit gray":"submit"} onClick={()=>{setAction("Login")}}>Login</div>
+        
       </div>
+     <Link to='/home'> <div className='sub'>Submit</div></Link> 
     </div>
+
+</div>
+    
 
   )
 }

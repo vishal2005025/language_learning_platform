@@ -4,10 +4,12 @@ import TeamCard from "./TeamCard"
 import "./team.css"
 import Awrapper from "../about/AWrapper"
 import "../about/about.css"
+import Header from '../common/heading/Header'
 
 const Team = () => {
   return (
     <>
+    <Header/>
       <Back title="Team"/>
       <section className='team padding'>
         <div className='container grid'>

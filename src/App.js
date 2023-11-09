@@ -2,7 +2,7 @@
 import './App.css';
 import Header from './components/common/heading/Header';
 
-// import LoginSignup from './components/LoginSignup/LoginSignup';
+import LoginSignup from './components/LoginSignup/LoginSignup';
 /*import { BrowserRouter, Routes, Route, Router } from "react-router-dom";*/
 
 
@@ -22,16 +22,17 @@ function App() {
 <>
 <Router>
 
-<Header/>
+{/* <Header/> */}
 
 <Routes>
 
-<Route path='/' element={<Home/>}/>
+<Route path='/' element= {<LoginSignup/>} /> 
+
+<Route path='/home' element={<Home/>}/>
 <Route path='/about' element={<About/>}/>
 <Route path='/courses' element={<CourseHome/>}/>
 <Route path='/team' element={<Team/>}/>
 
-{/* <Route path='/' element= {<LoginSignup/>} /> */}
 
 </Routes>      
 </Router>

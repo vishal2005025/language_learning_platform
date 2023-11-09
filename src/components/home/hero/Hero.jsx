@@ -7,9 +7,10 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row'>
-           <Title subtitle='WELCOME TO ACADEMIA' title="Best Online Education "/>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-            <div className='button'>
+           <Title subtitle='WELCOME TO LINGO HUB' title="Best Online Education "/>
+            {/* <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p> */}
+            <p>In the vast realm of online education, a world of knowledge unfolds at your fingertips. </p>
+             <div className='button'>
               <button className='primary-btn'>
                 GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
               </button>
