@@ -30,7 +30,7 @@
     transition: 0.5s;
   }
   header ul li a:hover {
-    color: #1eb2a6;
+    color: red;
   }
   .start {
     background-color: #1eb2a6;
