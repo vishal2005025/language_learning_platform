@@ -25,3 +25,10 @@
 
 # This is the footer section of the website ...
 <img width="960" alt="Screenshot 2023-11-11 220554" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/f348f393-0199-4467-aeea-a959b2fa4979">
+
+# Here are also some images....
+<img width="960" alt="Screenshot 2023-11-11 230524" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/9038b2a4-fe03-48f6-9d92-163135759fec">
+
+<img width="960" alt="Screenshot 2023-11-11 230412" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/b4a7ca89-4d20-4c0b-9412-16815a857a04">
+
+<img width="960" alt="Screenshot 2023-11-11 230435" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/fa7a227c-6aa4-4179-bfe0-24e5c50e4a2b">
