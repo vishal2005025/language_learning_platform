@@ -46,6 +46,10 @@
   color: #999999;
 }
 
+.aboutHome .item p:hover {
+  color: #fff;
+}
+
 .aboutHome .item:hover {
   background-color: #1eb2a6;
   color: #fff;
