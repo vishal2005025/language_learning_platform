@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 
 const Header = () => {
   const [click, setClick] = useState(false)
-   
+
   return (
     <>
       <Head />
@@ -35,19 +35,19 @@ const Header = () => {
             <li>
               <Link to='/contact'>Contact</Link>
             </li>
-           <li>
+            <li>
               <Link to='/'>Login</Link>
             </li>
           </ul>
           <div className='start'>
             <div className='button'>GET CERTIFICATE</div>
-            </div>
-          
-            <button className='toggle' onClick={() => setClick(!click)}>
+          </div>
+
+          <button className='toggle' onClick={() => setClick(!click)}>
             {click ? <i className='fa fa-times'> </i> : <i className='fa fa-bars'></i>}
           </button>
 
-            </nav>
+        </nav>
       </header>
     </>
   )

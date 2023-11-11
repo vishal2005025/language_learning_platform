@@ -8,23 +8,17 @@ import Faq from '../pricing/Faq'
 import Hblog from './Hblog'
 import Footer from '../footer/Footer'
 
-
-
-
-
 const Home = () => {
   return (
     <>
-    <Header/>
-      <Hero/>
+      <Header />
+      <Hero />
       <AboutCard />
-      <HAbout/>
-      <Test/>
-      <Faq/>
-      <Hblog/>
-    <Footer/>
-  
-
+      <HAbout />
+      <Test />
+      <Faq />
+      <Hblog />
+      <Footer />
     </>
   )
 }

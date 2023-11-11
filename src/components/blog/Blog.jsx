@@ -4,11 +4,10 @@ import BlogCard from "./BlogCard"
 import "./blog.css"
 import Header from "../common/heading/Header"
 
-
 const Blog = () => {
   return (
     <>
-      <Header/>
+      <Header />
       <Back title='Blog Posts' />
       <section className='blog padding'>
         <div className='container grid2'>

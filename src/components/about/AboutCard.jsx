@@ -7,8 +7,8 @@ import "./about.css"
 const AboutCard = () => {
   return (
     <>
-    
-     <section className='aboutHome'>
+
+      <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
             <img src='./images/about.webp' alt='' />

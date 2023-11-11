@@ -3,14 +3,14 @@ import { faq } from "../../dummydata"
 import Title from "../common/title/Title"
 
 const Faq = () => {
-    const [click, setClick] = useState(false)
+  const [click, setClick] = useState(false)
 
-    const toggle = (index) => {
-      if (click === index) {
-        return setClick(null)
-      }
-      setClick(index)
+  const toggle = (index) => {
+    if (click === index) {
+      return setClick(null)
     }
+    setClick(index)
+  }
   return (
     <>
       <Title subtitle='FAQS' title='Frequesntly Ask Question' />

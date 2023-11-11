@@ -3,7 +3,6 @@ import "./courses.css"
 import { online } from "../../dummydata"
 import Title from '../common/title/Title'
 
-
 const OnlineCourses = () => {
   return (
     <div>

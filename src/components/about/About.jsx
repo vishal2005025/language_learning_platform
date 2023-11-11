@@ -6,9 +6,9 @@ import Header from '../common/heading/Header'
 const About = () => {
   return (
     <>
-      <Header/>
+      <Header />
       <Back title='About Us' />
-      <AboutCard/>
+      <AboutCard />
 
     </>
   )

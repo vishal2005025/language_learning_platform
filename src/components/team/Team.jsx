@@ -9,8 +9,9 @@ import Header from '../common/heading/Header'
 const Team = () => {
   return (
     <>
-    <Header/>
-      <Back title="Team"/>
+      <Header />
+      
+      <Back title="Team" />
       <section className='team padding'>
         <div className='container grid'>
           <TeamCard />

@@ -9,7 +9,8 @@ const Price = () => {
   return (
     <>
 
-    <Header/>
+      <Header />
+      
       <Back title='Choose The Right Plan' />
       <section className='price padding'>
         <div className='container grid'>

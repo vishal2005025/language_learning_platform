@@ -1,7 +1,6 @@
 .hero {
-     background-image: url("../../../../public/images/bg.webp"); 
-    /* background-image: url("../../../../public/images/p6.jpg"); */
-  background-size: cover; 
+  background-image: url("../../../../public/images/bg.webp");
+  background-size: cover;
   background-attachment: fixed;
   position: absolute;
   top: 0;
@@ -13,25 +12,29 @@
   padding-right: 50px;
   color: #fff;
 }
+
 .hero #heading h3 {
-    color: #fff;
-  }
-  .hero #heading {
-    text-align: left;
-    margin: 0;
-    padding: 0;
+  color: #fff;
+}
+
+.hero #heading {
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .margin {
+    height: 40vh;
   }
 
-  @media screen and (max-width: 768px) {
-    .margin {
-      height: 40vh;
-    }
-    .hero {
-      background-position: right;
-      padding-top: 50%;
-      height: 80vh;
-    }
-    .hero .row {
-      width: 100%;
-    }
+  .hero {
+    background-position: right;
+    padding-top: 50%;
+    height: 80vh;
   }
+
+  .hero .row {
+    width: 100%;
+  }
+}

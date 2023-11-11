@@ -12,7 +12,6 @@ const HAbout = () => {
           <Title subtitle='our courses' title='explore our popular online courses' />
 
           <div className='coursesCard'>
-            {/* copy code form  coursesCard */}
             <div className='grid2'>
               {coursesCard.slice(0, 3).map((val) => (
                 <div className='items'>
@@ -60,6 +59,7 @@ const HAbout = () => {
             </div>
           </div>
         </div>
+        
         <OnlineCourses />
       </section>
     </>
