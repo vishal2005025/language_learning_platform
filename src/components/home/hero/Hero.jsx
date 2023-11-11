@@ -1,6 +1,7 @@
 import React from 'react'
 import "./hero.css"
 import Title from "../../common/title/Title"
+
 const Hero = () => {
   return (
     <>
@@ -14,8 +15,9 @@ const Hero = () => {
               <button className='primary-btn'>
                 GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
               </button>
+              
               <button>
-                VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
+              VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
               </button>
             </div>
           </div>

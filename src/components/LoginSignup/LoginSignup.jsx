@@ -44,7 +44,11 @@ const [action,setAction] = useState("Login");
         <div className={action==="Sign Up"?"submit gray":"submit"} onClick={()=>{setAction("Login")}}>Login</div>
         
       </div>
-     <Link to='/home'> <div className='sub'>Submit</div></Link> 
+      <div className='sub'>
+      <Link to='/home'>Submit</Link>
+      </div> 
+     
+     
     </div>
 
 </div>
