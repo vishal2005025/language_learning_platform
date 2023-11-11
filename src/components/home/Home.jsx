@@ -6,6 +6,7 @@ import Test from './testimonial/Test'
 import Header from '../common/heading/Header'
 import Faq from '../pricing/Faq'
 import Hblog from './Hblog'
+import Footer from '../footer/Footer'
 
 
 
@@ -21,7 +22,7 @@ const Home = () => {
       <Test/>
       <Faq/>
       <Hblog/>
-    
+    <Footer/>
   
 
     </>
