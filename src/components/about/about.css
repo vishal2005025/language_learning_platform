@@ -54,6 +54,7 @@
     background-size: cover;
     background-position: center;
     height: 30vh;
+    width:100vw;
     color: #fff;
   }
   .awrapper .box {

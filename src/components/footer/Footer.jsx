@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='container flexSB'>
           <div className='left row'>
             <h1>Newsletter - Stay tune and get the latest update</h1>
-            <span>Far far away, behind the word mountains</span>
+            <span>Hey, avid learners and valued community members!</span>
           </div>
           <div className='right row'>
             <input type='text' placeholder='Enter email address' />
@@ -22,7 +22,7 @@ const Footer = () => {
           <div className='box logo'>
             <h1>LINGO HUB</h1>
             <span>ONLINE EDUCATION & LEARNING PLATFORM</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>Stay informed about the latest trends in education, study hacks, and resources to enhance your learning journey.</p>
 
             <a href='https://www.facebook.com/' target='_blank'><i className='fab fa-facebook-f icon'></i></a>
             <a href='https://twitter.com/' target='_blank'><i className='fab fa-twitter icon'></i></a>

@@ -289,48 +289,48 @@ export const price = [
   {
     name: "BASIC PLAN",
     price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Ideal for beginners looking to establish a strong language foundation.Access to core lessons and fundamental language skills.",
   },
   {
-    name: "BEGINNER PLAN",
+    name: "STANDARD PLAN",
     price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Enhanced features, including interactive exercises, quizzes, and multimedia content.Suitable for learners who want a more  experience.",
   },
   {
     name: "PREMIUM PLAN",
     price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Full access to all courses, advanced lessons, and exclusive content. Priority access to new features and updates.",
   },
   {
     name: "ULTIMATE PLAN",
     price: "149K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Unlimited access to all current and future courses .  A one-time investment for a lifetime of language learning and gain experience.",
   },
 ]
 export const faq = [
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: " How do I get started with Lingo Hub?",
+    desc: "Getting started is easy! Simply sign up on our platform, choose the language you want to learn, and start your first lesson. Our user-friendly interface will guide you through the process, making language learning accessible to everyone.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Is Lingo Hub suitable for beginners?",
+    desc: "Absolutely! Our platform caters to learners of all levels, from beginners to advanced. We offer structured courses designed to gradually build your language skills, and you can progress at your own pace.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Can I use Lingo Hub on my mobile device?",
+    desc: "Yes, you can! Our platform is fully optimized for mobile devices. Download our app from the App Store or Google Play, and enjoy learning on the go. Sync your progress across devices for a seamless experience.",
   },
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Are the lessons interactive?",
+    desc: "Absolutely! Our lessons are designed to be engaging and interactive. You'll find a variety of multimedia elements, quizzes, and speaking exercises to reinforce your learning. Interaction is key to language acquisition, and we prioritize this in our curriculum.",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "Is there a community or forum for users to interact with each other?",
+    desc: "Yes, we encourage community interaction! Join our forums or language-specific groups to connect with fellow learners, exchange tips, and practice with native speakers. Learning a language is more fun and effective when you're part of a supportive community.",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "What makes Lingo Hub different from other language learning apps?",
+    desc: "Lingo Hub stands out for its comprehensive curriculum, interactive lessons, and personalized learning approach. Our focus on creating a supportive community sets us apart, providing a holistic language learning experience.",
   },
 ]
 export const blog = [
@@ -340,7 +340,7 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -349,7 +349,7 @@ export const blog = [
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -358,7 +358,7 @@ export const blog = [
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
     cover: "../images/blog/b3.webp",
   },
   {
@@ -367,7 +367,7 @@ export const blog = [
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
     cover: "../images/blog/b4.webp",
   },
   {
@@ -376,7 +376,7 @@ export const blog = [
     date: "DEC. 14, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
     cover: "../images/blog/b5.webp",
   },
   {
@@ -385,7 +385,7 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "12 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
     cover: "../images/blog/b6.webp",
   },
 ]
@@ -394,21 +394,21 @@ export const testimonal = [
     id: 1,
     name: "Vishal Malyan",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
     name: "Abhi Verma",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 3,
     name: "Abhishek",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
     cover: "./images/testo/t3.webp",
   },
 ]
