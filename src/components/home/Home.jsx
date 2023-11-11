@@ -4,6 +4,9 @@ import AboutCard from '../about/AboutCard'
 import HAbout from './HAbout'
 import Test from './testimonial/Test'
 import Header from '../common/heading/Header'
+import Faq from '../pricing/Faq'
+
+
 
 const Home = () => {
   return (
@@ -13,6 +16,8 @@ const Home = () => {
       <AboutCard />
       <HAbout/>
       <Test/>
+      <Faq/>
+  
 
     </>
   )
