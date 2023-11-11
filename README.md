@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Hi! There is a preview of the language learning website that will show after npm start........
+# Here are some glimpses.... of all the sections.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Click on submit button to reach on the home page of the website because the login page has not backend yet..
+<img width="960" alt="Screenshot 2023-11-11 220321" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/ac1e17d8-58b3-4272-92f8-827d9963fddb">
 
-## Available Scripts
+# There are many links in the header section which redirect to all sections of the website and also on clicking on the icons to redirect next page belonging to icon..
+<img width="960" alt="Screenshot 2023-11-11 222324" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/050d0a78-6433-4f58-a434-93100eb1a886">
 
-In the project directory, you can run:
+# This is the glimpse of about section of the website ..
+<img width="960" alt="Screenshot 2023-11-11 221857" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/298b62c3-e244-409a-a158-7ea057c649ef">
 
-### `npm start`
+# This is glimpse of the course section . For complete section click on the course link in header section.
+<img width="960" alt="Screenshot 2023-11-11 220440" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/258a24e9-cb21-430d-a86d-ef1222119b30">
+<img width="960" alt="Screenshot 2023-11-11 220454" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/ede23b9e-ee50-408f-b17a-7439f09a9481">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# This is testimonial section of the website...
+<img width="960" alt="Screenshot 2023-11-11 220510" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/481f1534-db08-4e34-8325-6d1babad6200">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# This is the frequently asked questions section of the website...
+<img width="960" alt="Screenshot 2023-11-11 220525" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/dab2382f-c289-4a28-b1d3-9df51634aaca">
 
-### `npm test`
+# This  is the blog section of the website...
+<img width="960" alt="Screenshot 2023-11-11 220539" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/00fcc3da-6ee5-4e84-a45b-024b64927740">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# This is the footer section of the website ...
+<img width="960" alt="Screenshot 2023-11-11 220554" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/f348f393-0199-4467-aeea-a959b2fa4979">
 
-### `npm run build`
+# Here are also some images....
+<img width="960" alt="Screenshot 2023-11-11 230524" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/9038b2a4-fe03-48f6-9d92-163135759fec">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="960" alt="Screenshot 2023-11-11 230412" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/b4a7ca89-4d20-4c0b-9412-16815a857a04">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="960" alt="Screenshot 2023-11-11 230435" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/fa7a227c-6aa4-4179-bfe0-24e5c50e4a2b">
