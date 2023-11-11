@@ -5,6 +5,9 @@ import HAbout from './HAbout'
 import Test from './testimonial/Test'
 import Header from '../common/heading/Header'
 import Faq from '../pricing/Faq'
+import Hblog from './Hblog'
+
+
 
 
 
@@ -17,6 +20,8 @@ const Home = () => {
       <HAbout/>
       <Test/>
       <Faq/>
+      <Hblog/>
+    
   
 
     </>

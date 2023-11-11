@@ -18,6 +18,7 @@ import CourseHome from './components/allcourses/CourseHome';
 import Team from './components/team/Team';
 import Price from './components/pricing/Price';
 import Blog from './components/blog/Blog';
+import Contact from './components/contact/Contact';
 
 
 
@@ -38,6 +39,7 @@ function App() {
 <Route path='/team' element={<Team/>}/>
 <Route path='/pricing' element={<Price/>}/>
 <Route path='/journal' element={<Blog/>}/>
+<Route path='/contact' element={<Contact/>}/>
 
 </Routes>      
 </Router>
