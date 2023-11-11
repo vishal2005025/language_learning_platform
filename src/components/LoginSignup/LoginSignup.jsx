@@ -45,7 +45,7 @@ const [action,setAction] = useState("Login");
         
       </div>
       <div className='sub'>
-      <Link to='/home'>Submit</Link>
+      <Link to='/home'><button>Submit</button></Link>
       </div> 
      
      
