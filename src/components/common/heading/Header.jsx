@@ -36,7 +36,7 @@ const Header = () => {
               <Link to='/contact'>Contact</Link>
             </li>
             <li>
-              <Link to='/'>Login</Link>
+              <Link to='/'>Logout</Link>
             </li>
           </ul>
           <div className='start'>
