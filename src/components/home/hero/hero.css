@@ -25,13 +25,13 @@
 
 @media screen and (max-width: 768px) {
   .margin {
-    height: 40vh;
+    height: 230px;
   }
 
   .hero {
     background-position: right;
-    padding-top: 50%;
-    height: 80vh;
+    padding-top: 225px;
+    height: 83vh;
   }
 
   .hero .row {
