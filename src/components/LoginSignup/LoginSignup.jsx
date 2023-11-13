@@ -40,7 +40,7 @@ const LoginSignup = () => {
         </div>
 
         <div className='sub'>
-          <Link to='/home'><button>Submi</button></Link>
+          <Link to='/home'><button>Submit</button></Link>
         </div>
 
 
