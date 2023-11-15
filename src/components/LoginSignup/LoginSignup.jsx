@@ -13,6 +13,7 @@ const LoginSignup = () => {
     <>
     
 <div className='login1'>
+<Chatabot/>
   <div className='containerL'>
     <div className="headerL">
       <div className="textL">{action}</div>
@@ -48,9 +49,11 @@ const LoginSignup = () => {
 
 
   </div>
-  <Chatabot/>
+  
 
 </div>
+
+
     </>
   )
 }

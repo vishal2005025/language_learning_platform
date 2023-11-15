@@ -1,18 +1,22 @@
+
 .login1 {
     background-image: url("../../../public/images/p6.jpg");
     height: 100vh;
     width: 100vw;
-    padding-top: 80px;
+    padding: 50px;
     background-size: cover;
     position: absolute;
     z-index: -1;
-
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 9vw;
+ 
 }
 
 .containerL {
     display: flex;
     flex-direction: column;
-    margin: auto;
+    margin-bottom: auto;
     background-color: rgba(255, 255, 255, 0.2);
     width: 50vw;
     padding-bottom: 30px;
@@ -133,4 +137,9 @@
 .sub button:hover {
     color: #fff;
     background-color: #187cc8;
+}
+@media screen and (max-width: 800px){
+    .login1 {
+        flex-wrap: wrap;
+    }
 }

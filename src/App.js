@@ -20,10 +20,8 @@ import Contact from './components/contact/Contact';
 function App() {
   return (
     <>
-    
       <Router>
         <Routes>
-
           <Route path='/' element={<LoginSignup />} />
           <Route path='/home' element={<Home />} />
           <Route path='/about' element={<About />} />
