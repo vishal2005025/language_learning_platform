@@ -19,10 +19,12 @@
   color: grey;
   margin: 40px 0;
 }
-.items .outline-btn:hover{
+
+.items .outline-btn:hover {
   transform: scale(1.2);
   border-radius: 15px;
 }
+
 /*----------------------------------------------faq start---------------------------------------------*/
 .faq .container {
   max-width: 70%;
