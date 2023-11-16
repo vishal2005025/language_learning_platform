@@ -15,6 +15,7 @@ import Team from './components/team/Team';
 import Price from './components/pricing/Price';
 import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
+import Solution from './components/solution/Solution';
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
           <Route path='/pricing' element={<Price />} />
           <Route path='/journal' element={<Blog />} />
           <Route path='/contact' element={<Contact />} />
+          <Route path='/solution' element={<Solution />} />
         </Routes>
       </Router>
     </>
