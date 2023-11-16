@@ -1,10 +1,10 @@
 
 .login1 {
-    background-image: url("../../../public/images/p6.jpg");
-    height: 100vh;
+    background-image: url("../../../public/images/p10.jpg");
+    height: 200vh;
     width: 100vw;
     padding: 50px;
-    background-size: cover;
+    background-size: contain;
     position: absolute;
     z-index: -1;
     display: flex;
@@ -35,7 +35,7 @@
 
 .textL {
     /* color: #3c009d; */
-    color: #187cc8;
+    color: rgb(25, 216, 216);
     font-size: 43px;
     font-weight: 700;
 }
@@ -44,7 +44,7 @@
     width: 60px;
     height: 6px;
     /* background:#3c009d ; */
-    background: #187cc8;
+    background:rgb(25, 216, 216);
     border-radius: 9px;
 }
 
@@ -89,7 +89,7 @@
 
 .forget-password span {
     cursor: pointer;
-    color: #187cc8;
+    color: red;
 }
 
 .submit-container {
@@ -106,8 +106,8 @@
     align-items: center;
     width: 18vw;
     height: 50px;
-    color: #e3dcdc;
-    background: #187cc8;
+    color:black;
+    background: rgb(25, 216, 216);
     border-radius: 50px;
     font-size: 18px;
     font-weight: 700;
@@ -136,10 +136,26 @@
 
 .sub button:hover {
     color: #fff;
-    background-color: #187cc8;
+    background-color: red;
 }
 @media screen and (max-width: 800px){
     .login1 {
         flex-wrap: wrap;
+
+    }
+    .containerL{
+        width:90vw;
+    }
+    .sub button{
+        width: 40vw;
+        margin-left: 22vw;
+        padding-right: 30px;
+        
+    }
+    .submit{
+        width: 35vw;
+    }
+    .input {
+        width: 65vw;
     }
 }
