@@ -33,6 +33,6 @@
 # Here are also some images....
 <img width="960" alt="Screenshot 2023-11-11 230524" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/9038b2a4-fe03-48f6-9d92-163135759fec">
 
-<img width="960" alt="Screenshot 2023-11-11 230412" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/b4a7ca89-4d20-4c0b-9412-16815a857a04">
+<img width="960" alt="Screenshot 2023-11-16 135824" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/c6bca813-edfe-42b5-9ccb-c9f243231630">
 
 <img width="960" alt="Screenshot 2023-11-16 135245" src="https://github.com/vishal2005025/language_learning_platform/assets/146833908/28484724-3410-477f-b2a6-1b08c6e8bc58">
