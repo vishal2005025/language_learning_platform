@@ -2,6 +2,10 @@
   padding: 30px;
   transition: 0.5s;
 }
+.testimonal .items:hover{
+  transform: scale(1.1);
+  border-radius: 15px;
+}
 
 .testimonal .img {
   position: relative;

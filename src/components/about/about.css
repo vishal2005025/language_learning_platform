@@ -11,8 +11,11 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: 0.5s;
 }
-
+.aboutHome .left img:hover{
+  transform: scale(0.9);
+}
 .aboutHome .right {
   padding: 80px 50px;
 }
@@ -20,7 +23,10 @@
 .aboutHome .items {
   margin-top: 50px;
 }
-
+.aboutHome .item:hover{
+  transform: scale(1.1);
+  border-radius: 15px;
+}
 .aboutHome .item {
   background-color: #fff;
   margin-top: 30px;

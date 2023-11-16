@@ -72,7 +72,10 @@
   font-weight: 500;
   color: #1eb2a6;
 }
-
+.coursesCard div .outline-btn:hover{
+   transform: scale(1.1);
+   border-radius: 15px;
+}
 
 .online {
   text-align: center;
@@ -120,8 +123,9 @@
 
 .online .box:hover {
   background-color: #1eb2a6;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
+  transform: scale(1.05);
 }
 
 .online .box:hover .show {

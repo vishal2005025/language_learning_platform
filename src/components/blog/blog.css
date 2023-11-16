@@ -16,7 +16,7 @@
 }
 
 .blog h1:hover {
-  color: #1eb2a6;
+  color:red;
   cursor: pointer;
 }
 
