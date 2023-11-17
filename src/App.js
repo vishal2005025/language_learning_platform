@@ -2,6 +2,8 @@
 import './App.css';
 import Header from './components/common/heading/Header';
 import LoginSignup from './components/LoginSignup/LoginSignup';
+import { useState, useEffect } from 'react';
+import axios from 'axios';
 import {
   BrowserRouter as Router,
   Routes,
@@ -19,6 +21,19 @@ import Solution from './components/solution/Solution';
 
 
 function App() {
+  const [students, setStudents]=useState([])
+  useEffect(()=>{
+    async function getAllStudent(){
+      try{
+        const students = await axios.get("http://127.0.0.1:8000/students/login/")
+        console.log(students.data)
+        setStudents(students.data)
+      } catch(error){
+
+      }
+    }
+    getAllStudent()
+  },[])
   return (
     <>
       <Router>
