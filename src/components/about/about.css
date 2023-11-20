@@ -9,8 +9,8 @@
 
 .aboutHome .left img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: 95%;
+
   transition: 0.5s;
 }
 

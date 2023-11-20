@@ -48,7 +48,7 @@ export const coursesCard = [
     coursesName: "Introducing to Software Engineering",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "50 lectures (190 hrs)",
       },
@@ -62,7 +62,7 @@ export const coursesCard = [
     coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "30 lectures (125 hrs)",
       },
@@ -76,7 +76,7 @@ export const coursesCard = [
     coursesName: "HTML, CSS, and Javascript for Web Developers",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "50 lectures (50 hrs)",
       },
@@ -90,7 +90,7 @@ export const coursesCard = [
     coursesName: "Introducing to Programming with WordPress",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "20 lectures (20 hrs)",
       },
@@ -104,7 +104,7 @@ export const coursesCard = [
     coursesName: "Introducing to Programming with ReactJS",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "100 lectures (150 hrs)",
       },
@@ -118,7 +118,7 @@ export const coursesCard = [
     coursesName: "Learn Frontend Programming Language",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "200 lectures (300 hrs)",
       },
@@ -132,7 +132,7 @@ export const coursesCard = [
     coursesName: "Introducing to with HTML / CSS",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "20 lectures (50 hrs)",
       },
@@ -146,7 +146,7 @@ export const coursesCard = [
     coursesName: "Introducing to with JAVA",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "80 lectures (200 hrs)",
       },
@@ -160,7 +160,7 @@ export const coursesCard = [
     coursesName: "Introducing to  JAVASCRIPT",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/vishal.jpg",
         name: "by vishal malyan",
         totalTime: "50 lectures (50 hrs)",
       },
@@ -245,42 +245,42 @@ export const online = [
 ]
 export const team = [
   {
-    cover: "./images/team/t1.webp",
+    cover: "./images/team/vishal.jpg",
     name: "Ph.D Vishal Malyan",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t2.webp",
+    cover: "./images/team/shreyanshsir.jpg",
     name: "Ph.D Abhi Verma ",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t3.webp",
+    cover: "./images/team/samaviahmam.jpg",
     name: "Ph.D Samaviah",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t4.webp",
+    cover: "./images/team/tarunsir.jpg",
     name: "Ph.D Tarun Lalwani",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t5.webp",
+    cover: "./images/team/shoryasir.jpg",
     name: "Ph.D Shorya",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t6.webp",
-    name: "Ph.D Shreyansh Sachan ",
+    cover: "./images/team/yashsir.jfif",
+    name: "Ph.D Yash Khare ",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t7.webp",
+    cover: "./images/team/nandini-mam.jpg",
     name: "Ph.D Nandini Sharma",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/t8.webp",
+    cover: "./images/team/abhisheksir.png",
     name: "Ph.D Abhishek",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
@@ -341,7 +341,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
-    cover: "../images/blog/b1.webp",
+    cover: "../images/blog/p7.webp",
   },
   {
     id: 2,
@@ -350,7 +350,7 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
-    cover: "../images/blog/b2.webp",
+    cover: "../images/blog/p2.avif",
   },
   {
     id: 3,
@@ -359,7 +359,7 @@ export const blog = [
     com: "10 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
-    cover: "../images/blog/b3.webp",
+    cover: "../images/blog/p3.avif",
   },
   {
     id: 4,
@@ -368,7 +368,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
-    cover: "../images/blog/b4.webp",
+    cover: "../images/blog/p4.avif",
   },
   {
     id: 5,
@@ -377,7 +377,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
-    cover: "../images/blog/b5.webp",
+    cover: "../images/blog/p5.avif",
   },
   {
     id: 6,
@@ -386,7 +386,7 @@ export const blog = [
     com: "12 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "The journey to success is often marked by perseverance, dedication, and the invaluable guidance of our educators.",
-    cover: "../images/blog/b6.webp",
+    cover: "../images/blog/p6.avif",
   },
 ]
 export const testimonal = [
@@ -395,20 +395,20 @@ export const testimonal = [
     name: "Vishal Malyan",
     post: "MARKETING MANAGER",
     desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
-    cover: "./images/testo/t1.webp",
+    cover: "./images/testo/p1.avif",
   },
   {
     id: 2,
     name: "Abhi Verma",
     post: "MARKETING MANAGER",
     desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
-    cover: "./images/testo/t2.webp",
+    cover: "./images/testo/p3.jpg",
   },
   {
     id: 3,
     name: "Abhishek",
     post: "MARKETING MANAGER",
     desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
-    cover: "./images/testo/t3.webp",
+    cover: "./images/testo/p2.jpg",
   },
 ]
