@@ -15,14 +15,19 @@ import Team from './components/team/Team';
 import Price from './components/pricing/Price';
 import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
+import { ToastContainer } from 'react-toastify';
+import Login from './components/LoginSignup/Login';
+
 
 
 function App() {
   return (
     <>
       <Router>
+      <ToastContainer></ToastContainer>
         <Routes>
           <Route path='/' element={<LoginSignup />} />
+          <Route path='/login' element={<Login />} />
           <Route path='/home' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/courses' element={<CourseHome />} />
