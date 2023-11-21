@@ -1,5 +1,6 @@
 .team .items {
     transition: 0.5s;
+    margin-top: 40px;
   }
   .team .img {
     position: relative;

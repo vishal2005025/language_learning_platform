@@ -3,6 +3,9 @@
   height: 100%;
   border: none;
 }
+.contacts .container{
+  margin-top: 40px;
+}
 
 .contacts .right {
   padding: 50px;
