@@ -251,7 +251,7 @@ export const team = [
   },
   {
     cover: "./images/team/shreyanshsir.jpg",
-    name: "Ph.D Abhi Verma ",
+    name: "Ph.D Sheryansh ",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
@@ -275,13 +275,13 @@ export const team = [
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/nandini-mam.jpg",
-    name: "Ph.D Nandini Sharma",
+    cover: "./images/team/vaibhav.jpg",
+    name: "Ph.D Vaibhav",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./images/team/abhisheksir.png",
-    name: "Ph.D Abhishek",
+    cover: "./images/team/vishwas.jpg",
+    name: "Ph.D Vishwas",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
 ]
@@ -399,14 +399,14 @@ export const testimonal = [
   },
   {
     id: 2,
-    name: "Abhi Verma",
+    name: "Vishwas ",
     post: "MARKETING MANAGER",
     desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
     cover: "./images/testo/p3.jpg",
   },
   {
     id: 3,
-    name: "Abhishek",
+    name: "Vaibhav",
     post: "MARKETING MANAGER",
     desc: "As our successful students embark on the next chapter of their academic journey or career, we are confident that they are well-prepared to face any challenges that come their way. ",
     cover: "./images/testo/p2.jpg",

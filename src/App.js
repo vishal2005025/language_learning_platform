@@ -19,7 +19,6 @@ import { ToastContainer } from 'react-toastify';
 import Login from './components/LoginSignup/Login';
 
 
-
 function App() {
   return (
     <>
@@ -34,7 +33,7 @@ function App() {
           <Route path='/team' element={<Team />} />
           <Route path='/pricing' element={<Price />} />
           <Route path='/journal' element={<Blog />} />
-          <Route path='/contact' element={<Contact />} />
+          <Route path='/contact' element={<Contact />} />   
         </Routes>
       </Router>
     </>

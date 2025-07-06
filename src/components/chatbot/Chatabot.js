@@ -15,6 +15,7 @@ const Chatabot = () => {
             message: "Please enter your name!",
             trigger: "waiting1",
         },
+        
         {
             id: "waiting1",
             user: true,
