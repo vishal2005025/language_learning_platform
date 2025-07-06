@@ -1,12 +1,10 @@
 
 import './App.css';
-import Header from './components/common/heading/Header';
 import LoginSignup from './components/LoginSignup/LoginSignup';
 import {
   BrowserRouter as Router,
   Routes,
   Route,
-  Link
 } from "react-router-dom";
 import Home from './components/home/Home';
 import About from './components/about/About';
@@ -17,23 +15,25 @@ import Blog from './components/blog/Blog';
 import Contact from './components/contact/Contact';
 import { ToastContainer } from 'react-toastify';
 import Login from './components/LoginSignup/Login';
+import Chatabot from './components/chatbot/Chatabot'
 
 
 function App() {
   return (
     <>
       <Router>
-      <ToastContainer></ToastContainer>
+        <ToastContainer></ToastContainer>
         <Routes>
-          <Route path='/' element={<LoginSignup />} />
+          <Route path='/signup' element={<LoginSignup />} />
           <Route path='/login' element={<Login />} />
-          <Route path='/home' element={<Home />} />
+          <Route path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/courses' element={<CourseHome />} />
           <Route path='/team' element={<Team />} />
           <Route path='/pricing' element={<Price />} />
           <Route path='/journal' element={<Blog />} />
-          <Route path='/contact' element={<Contact />} />   
+          <Route path='/contact' element={<Contact />} />
+          <Route path='/Chatabot' element={<Chatabot />} />
         </Routes>
       </Router>
     </>

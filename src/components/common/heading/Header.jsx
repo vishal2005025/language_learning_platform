@@ -8,12 +8,12 @@ const Header = () => {
   
   const usenavigate = useNavigate();
   const [click, setClick] = useState(false)
-  useEffect(()=>{
-    let username=sessionStorage.getItem('username');
-    if(username==='' || username===null){
-      usenavigate('/login');
-    }
-  },[]);
+  // useEffect(()=>{
+  //   let username=sessionStorage.getItem('username');
+  //   if(username==='' || username===null){
+  //     usenavigate('/');
+  //   }
+  // },[usenavigate]);
 
 
 
@@ -26,7 +26,7 @@ const Header = () => {
           <ul className={click ? "mobile-nav" : "flexSB "} onClick={() => setClick(false)}>
 
             <li>
-              <Link to='/home'>Home</Link>
+              <Link to='/'>Home</Link>
             </li>
             <li>
               <Link to='/courses'>All Courses</Link>
@@ -47,7 +47,7 @@ const Header = () => {
               <Link to='/contact'>Contact</Link>
             </li>
             <li>
-              <Link to='/'>Logout</Link>
+              <Link to='/Chatabot'>Chatbot</Link>
             </li>
           </ul>
           <div className='start'>
